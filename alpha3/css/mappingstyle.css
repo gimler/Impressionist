@@ -2,25 +2,33 @@
 {
 	position: absolute;
 }
+
+.smallheader
+{
+	width:480px;
+        font-size:80%;
+        line-height:40px;
+}
 .mediumheader
 {
-	width:900px;
+	width:720px;
 	font-size:120%;
-	line-height:40px;
+	line-height:60px;
 }
 .largeheader
 {
-	font-size:200%;
-	cursor:pointer;
 	width:1200px;
+	font-size:200%;
 	line-height:100px;
+	cursor:pointer;
 }
 .jumbo
 {
-	font-size:300%;
-	line-height:200px;
 	width:1800px;
+	font-size:300%;
+	line-height:150px;
 }
+
 .slideimage
 {
 	position: absolute;
